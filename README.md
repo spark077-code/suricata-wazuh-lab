@@ -31,8 +31,8 @@ This lab builds on my Wazuh server setup:
 ## Roadmap
 - [x] Deploy Wazuh agent on the Suricata VM
 - [x] Forward Suricata logs to Wazuh
-- [ ] Write custom Suricata rules
-- [ ] Test rules and view alerts in Wazuh
+- [x] Write custom Suricata rules
+- [x] Test rules and view alerts in Wazuh
 - [ ] Connect Windows 10 agents
 
 ## Connect
