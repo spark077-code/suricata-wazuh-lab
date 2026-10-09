@@ -36,4 +36,4 @@ This lab builds on my Wazuh server setup:
 - [ ] Connect Windows 10 agents
 
 ## Connect
-[LinkedIn](PASTE_YOUR_LINKEDIN_URL_HERE)
+[LinkedIn](www.linkedin.com/in/-faisalmehmood69)
